@@ -6,12 +6,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rijulsarji" alt="rijulsarji" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://rijulsarji.netlify.app/](https://rijulsarji.netlify.app/)
+- 🔭 I’m currently working on **fixing my college wifi.**
+- 🤝 I’m looking for help with **improving my socialising skills**
 
 ## My Hacktober Badges
-
-- 🔭 I’m currently working on **fixing my college wifi.**
-
-- 🤝 I’m looking for help with **improving my socialising skills**
 
 [![@rijulsarji's Holopin board](https://holopin.me/rijulsarji)](https://holopin.io/@rijulsarji)
 
