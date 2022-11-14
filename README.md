@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rijul Sarji</h1>
-<h3 align="center">A wannabe entrepreneur who sometimes codes ¯\_(ツ)_/¯</h3>
+<h3 align="center">A wannabe entrepreneur who codes sometimes ¯\_(ツ)_/¯</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rijulsarji&label=Profile%20views&color=33c7c4&style=flat" alt="rijulsarji" /> </p>
 
