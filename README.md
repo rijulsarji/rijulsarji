@@ -7,6 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://rijulsarji.netlify.app/](https://rijulsarji.netlify.app/)
 
+
+## My Hacktober Badges
+
+[![@rijulsarji's Holopin board](https://holopin.me/rijulsarji)](https://holopin.io/@rijulsarji)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rijul_sarji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rijul_sarji" height="30" width="40" /></a>
