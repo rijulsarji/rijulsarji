@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rijul Sarji</h1>
 <h3 align="center">A wannabe entrepreneur who codes sometimes ¯\_(ツ)_/¯</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rijulsarji&label=Profile%20views&color=282A36&style=flat" alt="rijulsarji" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rijulsarji&label=Profile%20views&color=684161&style=flat" alt="rijulsarji" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rijulsarji&theme=dracula" alt="rijulsarji" /></a> </p>
 
