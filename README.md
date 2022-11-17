@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rijulsarji&label=Profile%20views&color=33c7c4&style=flat" alt="rijulsarji" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rijulsarji" alt="rijulsarji" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula" alt="rijulsarji" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://rijulsarji.netlify.app/](https://rijulsarji.netlify.app/)
 - 🔭 I’m currently working on **fixing my college wifi.**
